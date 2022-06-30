@@ -1,1 +1,1 @@
-basic stuff about celestial version 4.0
+basic stuff about celestial version 3.0
